@@ -20,5 +20,5 @@
 </a>
 
 <a href="mailto:dev.mitsuko@gmail.com">
-  <code><img alt="My e-mail" width="30" height: 10px; src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
