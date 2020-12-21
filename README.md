@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, nice to meet you 🖖
+### Welcome to my GitHub page!
+<p>
+	I'm Yuri , Frontend Developer from  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> São José - SC 
+</p>
+<br>
 
-<!--
-**yucianci/yucianci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Talking about personal stuffs
+<ul> 
+<li type="circle"> 🖥️ I'm Information Science Technical;</li>
+<li type="circle"> 📚 I'm a self-taught web programming;</li>
+<li type="circle"> 👨‍💻 I'm currently learning JavaScript Vanilla ;</li>
+<li type="circle"> 💬 Ask me about anything, I am happy to help ;</li>
+</ul>
+<br>
 
-Here are some ideas to get you started:
+### Where to find me:
+<a href="https://www.linkedin.com/in/patricia-mashiba/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:dev.mitsuko@gmail.com">
+  <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
