@@ -22,5 +22,3 @@
 <a href="mailto:yucianci@gmail.com">
   <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
-
-[! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api/yucianci )] 
