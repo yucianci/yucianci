@@ -23,5 +23,4 @@
   <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
-[! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
-
+[! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = yucianci )] 
