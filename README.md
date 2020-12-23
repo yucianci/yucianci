@@ -15,15 +15,13 @@
 <br>
 
 ### Where to find me:
-<a href="https://www.linkedin.com/in/yuricianci/" target="_blank" rel="external">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-
-<a href="mailto:yucianci@gmail.com">
-  <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
+<a href="https://www.linkedin.com/in/yucianci/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Yuri%20Cianci-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yucianci/"/></a>
+<a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/yucianci@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucianci@gmail.com"/></a>
 <br>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&theme=dracula"> 
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucianci&layout=compact&theme=dracula"> 
+</p>
