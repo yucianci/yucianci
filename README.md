@@ -23,7 +23,7 @@
   <code><img alt="My e-mail" width="30" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 <br>
-
+<br>
 <a href="https://github.com/yucianci/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&count_private=true&theme=radical&hide=issues" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
