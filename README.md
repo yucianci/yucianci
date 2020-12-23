@@ -21,9 +21,12 @@
 <a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/yucianci@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucianci@gmail.com"/></a>
 <br>
 <br>
+<details>
+  <summary> <b>Github Stats</b> </summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&theme=dracula"> 
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucianci&layout=compact&theme=dracula"> 
 </p>
+</details>
