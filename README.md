@@ -1,5 +1,5 @@
 # Hi, I'm Yuri Fuzifaru Canci, nice to meet you 🖖
-<img align="right" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="Basecamp sky" />
+<img align="right" width="50%" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="Basecamp sky" />
 
 ### Welcome to my GitHub page!
 <p>
