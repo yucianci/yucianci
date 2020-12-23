@@ -24,6 +24,6 @@
 </a>
 <br>
 <br>
-<a href="https://github.com/yucianci/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&count_private=true&theme=radical&hide=issues" />
+<a style="margin-left: 100px;" href="https://github.com/yucianci/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
