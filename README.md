@@ -21,8 +21,8 @@
 <a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/yucianci@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucianci@gmail.com"/></a>
 <br>
 
-### Skills:
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+### Skills achieved:
+<img width="65" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
 <br>
 <details>
