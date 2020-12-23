@@ -18,7 +18,7 @@
 
 ### Where to find me:
 <a href="https://www.linkedin.com/in/yucianci/"><img alt="Linkedin Badge" width="100" src="https://img.shields.io/badge/-Yuri%20Cianci-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yucianci/"/></a>
-<a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/yucianci@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucianci@gmail.com"/></a>
+<a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" width="100" src="https://img.shields.io/badge/yucianci@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucianci@gmail.com"/></a>
 <br>
 
 ### Skills achieved:
