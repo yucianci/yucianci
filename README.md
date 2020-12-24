@@ -33,8 +33,8 @@
 <img width="64.8" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 <br>
-
-### Studying new skills:
+<details>
+	<summary> <b>Studying new skills:</b> </sumary>
 <p 
 <img/>
 <img width="90" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -45,10 +45,11 @@
 <img width="60" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img width="60" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+</details>
 <br>
 
 <details>
-  <summary> <b>Github Statistics</b> </summary>
+	<summary> <b>Github Statistics</b> </summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yucianci&show_icons=true&theme=dracula"> 
 </p>
