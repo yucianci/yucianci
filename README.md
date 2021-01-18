@@ -12,7 +12,7 @@
 <li type="circle"> 🖥️ I'm Computer Technical;</li>
 <li type="circle"> 📚 I'm a self-taught web programming;</li>
 <li type="circle"> 👨‍💻 I'm currently learning JavaScript Vanilla;</li>
-<li type="circle"> 💬 Ask me about anything, I'm happy to help;</li>
+<li type="circle"> 💬 Ask me about anything, i'm happy to help;</li>
 </ul>
 <br>
 
