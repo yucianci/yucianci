@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub page!
 <p>
-	I'm Yuri , Frontend Developer from  <img width="12" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> São José - SC 
+	I'm Yuri , Frontend Developer from  <img width="12" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Umuarama - PR 
 </p>
 <br>
 
