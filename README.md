@@ -1,4 +1,4 @@
-# Hi, I'm Yuri Fuzifaru Cianci, nice to meet you 🖖
+# Hi, I'm Yuri, nice to meet you 🖖
 <img align="right" height="50%" width="40%" height="260" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Basecamp sky" />
 
 ### Welcome to my GitHub page!
