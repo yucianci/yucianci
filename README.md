@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub page!
 <p>
-	I'm Frontend Developer from  <img width="12" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Umuarama - PR 
+	I'm Frontend Developer from Brazil (Umuarama - PR) 
 </p>
 <br>
 
@@ -38,6 +38,7 @@
 <img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img height="20" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 </p>
 <br>
@@ -45,7 +46,6 @@
 ### Studying new skills:
 <p 
 <img/>
-<img height="20" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img height="20" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
