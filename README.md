@@ -1,5 +1,5 @@
 # Hi, i'm Yuri, nice to meet you 🖖
-<img align="right" width="42%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Basecamp sky" />
+<img align="right" width="41%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Basecamp sky" />
 
 ### Welcome to my GitHub page!
 <p>
