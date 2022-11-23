@@ -18,7 +18,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucianci&layout=compact&theme=dracula"> </p> 
 ### Where to find me:
-<p><a href="https://www.linkedin.com/in/yuricianci/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Yuri%20Cianci-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuricianci/"/></a>
-<a href="mailto:yucianci@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/yucianci@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucianci@gmail.com"/></a> 
+<p>
+<a href="https://www.linkedin.com/in/yuricianci/">
+<img alt="Linkedin Badge" src="https://img.shields.io/badge/-Yuri%20Cianci-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuricianci/"/>
+</a>
+<a href="mailto:yucianci@gmail.com" target="blank">
+<img alt="Gmail Badge" src="https://img.shields.io/badge/yucianci@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucianci@gmail.com"/>
+</a> 
 <br>
 
