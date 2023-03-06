@@ -25,8 +25,3 @@
 <img alt="Gmail Badge" src="https://img.shields.io/badge/yucianci@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucianci@gmail.com"/>
 </a> 
 <br>
-	
-### More info:
-	
-<a href="https://drive.google.com/drive/folders/1VCLmz4ysQA2zWwYdJBhex_UHLj6QieLg?usp=sharing" target="_blank">My Resume - Google Drive</a>
-
