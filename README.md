@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub page!
 <p>
-	I'm Fullstack Developer from Brazil (Umuarama - PR) 
+	I'm Fullstack Developer from Brazil (São José - SC) 
 </p>
 <br>
 
